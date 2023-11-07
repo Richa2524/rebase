@@ -1,3 +1,5 @@
 2nd file in main
 
 2nd line in file2 from branch feature.
+
+3rd line in file2 from feature.
